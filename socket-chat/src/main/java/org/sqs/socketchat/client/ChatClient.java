@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 
 /**
- * 通信客户端d
+ * 通信客户端ds
  */
 public class ChatClient {
     public static void main(String[] args) {
